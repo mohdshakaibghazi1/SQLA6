@@ -1,0 +1,2 @@
+Create Database ProductInventoryDb
+Use ProductInventoryDb
